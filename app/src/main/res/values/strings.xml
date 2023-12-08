@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="author">by Konstantinos Antzoulidis</string>
+    <string name="plusSign">+</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="comma">.</string>
+    <string name="negate">+/-</string>
+    <string name="backspace">⌫</string>
+    <string name="clearEntry">CE</string>
+    <string name="convert">Convert value</string>
+    <string name="div1x">1/x</string>
+    <string name="divide">/</string>
+    <string name="equals">=</string>
+    <string name="memAdd">M+</string>
+    <string name="memClear">MC</string>
+    <string name="memRecall">MR</string>
+    <string name="memStore">MS</string>
+    <string name="multiply">x</string>
+    <string name="memSubtract">M-</string>
+    <string name="percentage">%</string>
+    <string name="squareRoot">√x</string>
+    <string name="subtract">-</string>
+    <string name="from">from</string>
+    <string name="to">to</string>
+    <string name="xSquared">x²</string>
+    <string name="erase">C</string>
+
+</resources>
